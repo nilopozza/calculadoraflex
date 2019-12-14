@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028544097298",
+    "firebase_url": "https://calculadoraflex-pozza.firebaseio.com",
+    "project_id": "calculadoraflex-pozza",
+    "storage_bucket": "calculadoraflex-pozza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028544097298:android:477276f15f23dda7c17ccb",
+        "android_client_info": {
+          "package_name": "br.com.pozza.calculadoraflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028544097298-3oojk9fmld31u72d63pd1d4c6f8e94m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.pozza.calculadoraflex",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "1028544097298-3i4ogng803ihvd3a0q2uf4spet61s92k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrcRRqrWKnxcum7gie0Ds33QJrBvrSoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028544097298-3i4ogng803ihvd3a0q2uf4spet61s92k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
